@@ -59,3 +59,12 @@
 
 ---
 
+
+### 🚀 Pinned Projects
+| Project | Description |
+| --- | --- |
+| **[algorithm-ps-dp](https://github.com/C0mput33/algorithm-ps-dp)** | Algorithm problem solutions |
+| **[2024KWU_T8](https://github.com/winstone300/2024KWU_T8)** | Unity C# Team 8 rythm‑game |
+| **[realGitFolio](https://github.com/KWCapstoneGitFolio/realGitFolio)** , **[realGitFolio_Back-up](https://github.com/C0mput33/realGitFolio)** | GitHub → Portfolio Generator (Django · Claude API) |
+| **[Phishing URL Detector](https://github.com/C0mput33/whs-phishing-detector)** | LGBM + CNN Ensemble Phishing Detector |
+
