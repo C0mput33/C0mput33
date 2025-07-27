@@ -8,7 +8,7 @@
 ---
 
 ### 🎓 Education
-| 기간 | 학교 / 전공 |
+| Duration | School / major |
 |------|-------------|
 | 2019.03 – Present | **B.S., School of Software engineering(major with a specialization in AI), Kwangwoon University** |
 
