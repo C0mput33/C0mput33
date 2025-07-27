@@ -4,10 +4,6 @@
   🛡 WHS 2nd Grad · 🥇 LG Aimers Participant
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/C0mput33"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
-  <a href="https://c0mput33.github.io"><img src="https://img.shields.io/badge/Blog-222?logo=githubpages&logoColor=white"/></a>
-</p>
 
 ---
 
@@ -21,7 +17,6 @@ GitHub → Portfolio generator (Django · Claude API) |
 | <img src="https://raw.githubusercontent.com/C0mput33/whs-phishing-detector/main/assets/demo.gif" height="110"/> | **Phishing URL Detector**  
 Streamlit · LGBM + CNN Ensemble |
 
-> 🔖 `Settings → Featured → Pinned repositories` 에서 위 3개를 핀으로 고정하세요.
 
 ---
 
@@ -29,8 +24,8 @@ Streamlit · LGBM + CNN Ensemble |
 
 | 기간 | 내용 | 링크 |
 | ---- | ---- | ---- |
-| 2024.07 – 09 | **WHS 2기** 수료 – Phishing URL Detector | <a href="https://c0mput33.github.io/whs-cert"><img src="https://img.shields.io/badge/Certificate-PDF-blueviolet?style=flat-square"/></a> |
-| 2025.01 – 03 | **LG Aimers** AI Challenge | <a href="https://c0mput33.github.io/lg‑aimers"><img src="https://img.shields.io/badge/LG_Aimers-PDF-critical?style=flat-square"/></a> |
+| 2024.03 – 10. | **WHS 2기** 수료 – Phishing URL Detector | <a href="https://c0mput33.github.io/whs-cert"><img src="https://img.shields.io/badge/Certificate-PDF-blueviolet?style=flat-square"/></a> |
+| 2025.07 – 10. | **LG Aimers** AI Challenge | <a href="https://c0mput33.github.io/lg‑aimers"><img src="https://img.shields.io/badge/LG_Aimers-PDF-critical?style=flat-square"/></a> |
 
 ---
 
