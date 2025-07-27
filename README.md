@@ -23,7 +23,7 @@
 
 ### 🏆 Experience
 
-| 기간 | 내용 | 링크 |
+| Duration | Description | Link |
 | ---- | ---- | ---- |
 | 2024.03 – 10. | **WHS 2기** 수료 – Phishing URL Detector | <a href="https://whitehatschool.kr/home/kor/M459864420/contents.do?"><img src="https://img.shields.io/badge/Certificate-PDF-blueviolet?style=flat-square"/></a> |
 | 2025.07 – 10. | **LG Aimers** AI Challenge | <a href="https://lgaimers.ai/"><img src="https://img.shields.io/badge/LG_Aimers-PDF-critical?style=flat-square"/></a> |
