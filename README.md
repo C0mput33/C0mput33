@@ -7,15 +7,16 @@
 
 ---
 
-### 🚀 Pinned Projects
-| | |
-| :-- | :-- |
-| <img src="https://github.com/C0mput33/RhythmGame/raw/main/demo.gif" height="110"/> | **Rhythm Game**  
-Unity + C# / Custom note‑parser |
-| <img src="https://github.com/KWCapstoneGitFolio/realGitFolio/raw/main/content/demo_portfolio.gif" height="110"/> | **realGitFolio**  
-GitHub → Portfolio generator (Django · Claude API) |
-| <img src="https://raw.githubusercontent.com/C0mput33/whs-phishing-detector/main/assets/demo.gif" height="110"/> | **Phishing URL Detector**  
-Streamlit · LGBM + CNN Ensemble |
+### 🎓 Education
+| 기간 | 학교 / 전공 |
+|------|-------------|
+| 2019.03 – Present | **B.S., School of Software engineering(major with a specialization in AI), Kwangwoon University** |
+
+
+### 😄 Interests
+- ML/DL model research & deployment
+- Reinforcement Learning / LLM
+- Backend & MLOps
 
 
 ---
@@ -48,6 +49,13 @@ Streamlit · LGBM + CNN Ensemble |
   <img src="https://komarev.com/ghpvc/?username=C0mput33&style=flat-square"/>
 </p>
 
+
+<p align="center">
+  <a href="https://solved.ac/tmdnlffh">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdnlffh" alt="Solved.ac Profile"/>
+  </a>
+</p>
+
+
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
