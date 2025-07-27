@@ -24,7 +24,7 @@ Streamlit · LGBM + CNN Ensemble |
 
 | 기간 | 내용 | 링크 |
 | ---- | ---- | ---- |
-| 2024.03 – 10. | **WHS 2기** 수료 – Phishing URL Detector | <a href="https://c0mput33.github.io/whs-cert"><img src="https://img.shields.io/badge/Certificate-PDF-blueviolet?style=flat-square"/></a> |
+| 2024.03 – 10. | **WHS 2기** 수료 – Phishing URL Detector | <a href="https://c0mput33.github.io/whs-cert"><img src="https://img.shields.io/badge/https://whitehatschool.kr/home/kor/M459864420/contents.do?-PDF-blueviolet?style=flat-square"/></a> |
 | 2025.07 – 10. | **LG Aimers** AI Challenge | <a href="https://c0mput33.github.io/lg‑aimers"><img src="https://img.shields.io/badge/LG_Aimers-PDF-critical?style=flat-square"/></a> |
 
 ---
