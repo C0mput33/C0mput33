@@ -15,7 +15,7 @@
 
 ### 😄 Interests
 - ML/DL model research & deployment
-- Reinforcement Learning / LLM
+- Reinforcement Learning / CV
 - Backend & MLOps
 
 
