@@ -25,8 +25,8 @@
 
 | Duration | Description | Link |
 | ---- | ---- | ---- |
-| 2024.03 – 10. | **WHS 2기** 수료 – Phishing URL Detector | <a href="https://whitehatschool.kr/home/kor/M459864420/contents.do?"><img src="https://img.shields.io/badge/Certificate-PDF-blueviolet?style=flat-square"/></a> |
-| 2024.07 – 10. | **Google AI/ML Developer Programs** | <a href="https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024/home"><img src="https://img.shields.io/badge/Certificate-PDF-blueviolet?style=flat-square"/></a> |
+| 2024.03 – 10. | **WHS 2기** 수료 – Phishing URL Detector | <a href="https://whitehatschool.kr/home/kor/M459864420/contents.do?"><img src="https://img.shields.io/badge/Introduction-Link-blueviolet?style=flat-square"/></a> |
+| 2024.07 – 10. | **Google AI/ML Developer Programs** | <a href="https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024/home"><img src="https://img.shields.io/badge/Introduction-Link-blueviolet?style=flat-square"/></a> |
 | 2025.07 – 10. | **LG Aimers** AI Challenge | <a href="https://lgaimers.ai/"><img src="https://img.shields.io/badge/LG_Aimers-PDF-critical?style=flat-square"/></a> |
 
 ---
