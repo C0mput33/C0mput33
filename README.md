@@ -68,4 +68,6 @@
 | **[2024KWU_T8](https://github.com/winstone300/2024KWU_T8)** | Unity C# Team 8 rythm‑game |
 | **[realGitFolio](https://github.com/KWCapstoneGitFolio/realGitFolio)** , **[realGitFolio_Back-up](https://github.com/C0mput33/realGitFolio)** | GitHub → Portfolio Generator (Django · Claude API) |
 | **[Phishing URL Detector](https://github.com/C0mput33/whs-phishing-detector)** | LGBM + CNN Ensemble Phishing Detector |
+| **[LG Aimers-hackathon](https://www.notion.so/LG-Aimers-25-07-249343c769b28046b855edc1d849d9cd?source=copy_link)** | 식음업장 메뉴 수요 예측 AI 온라인 해커톤 |
 
+https://www.notion.so/LG-Aimers-25-07-249343c769b28046b855edc1d849d9cd?source=copy_link
