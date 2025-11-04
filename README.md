@@ -13,6 +13,7 @@
 | 2019.03 – Present | **B.S., School of Software engineering(major with a specialization in AI), Kwangwoon University** |
 
 
+
 ### 😄 Interests
 - ML/DL model research & deployment
 - Reinforcement Learning / Computer Vision
