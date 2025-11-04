@@ -75,6 +75,6 @@
 ### 🚀 Projects from Naver AI BoostCamp
 | Project | Description |
 | --- | --- |
-| **[NAVER AI BoostCamp(Notion Link)](https://www.notion.so/AI-Tech-8-249f11752bf180c6b326f1ff1d12c687?source=copy_link)** | 학습 및 부스트 캠프 과정 정리 노션 링크 |
+| **[NAVER AI BoostCamp(Notion Link)]()** | 학습 및 부스트 캠프 과정 정리 노션 링크 |
 
 
