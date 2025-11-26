@@ -75,6 +75,6 @@
 ### 🚀 Projects from Naver AI BoostCamp
 | Project | Description |
 | --- | --- |
-| **[NAVER AI BoostCamp(Notion Link)]()** | 학습 및 부스트 캠프 과정 정리 노션 링크 |
+| **[Kaggle(Notion Link)](https://www.notion.so/Recod-ai-LUC-Scientific-Image-Forgery-Detection-2b6f11752bf180399d6bd89dc95b0645?source=copy_link)** | Kaggle-Recod.ai/LUC - Scientific Image Forgery Detection |
 
 
