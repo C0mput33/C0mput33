@@ -77,4 +77,7 @@
 | --- | --- |
 | **[Kaggle(Notion Link)](https://www.notion.so/Recod-ai-LUC-Scientific-Image-Forgery-Detection-2b6f11752bf180399d6bd89dc95b0645?source=copy_link)** | Kaggle-Recod.ai/LUC - Scientific Image Forgery Detection |
 
-
+### 🚀 Paper Review
+| Project | Description |
+| --- | --- |
+| **[End-to-End Object Detection with Transformers_Paper Review(Notion Link)](https://www.notion.so/2025-11-25-End-to-End-Object-Detection-with-Transformer-2b6f11752bf180c9ba9dd8edf61ca9b6?source=copy_link)** | Facebook Research Team ECCV 2020 |
