@@ -77,7 +77,7 @@
 | Project | Description |
 | --- | --- |
 | **[Kaggle(Notion Link)](https://www.notion.so/Recod-ai-LUC-Scientific-Image-Forgery-Detection-2b6f11752bf180399d6bd89dc95b0645?source=copy_link)** | Kaggle-Recod.ai/LUC - Scientific Image Forgery Detection |
-| **[Domain Project 1(Notion Link)]()** , **[(Git Hub Link)]()**| 재활용 품목 분류를 위한 Object Detection |
+| **[Domain Project 1(Notion Link)](https://www.notion.so/1-Object-Detection-2c5f11752bf180f29a11edbdffc5ab3e?source=copy_link)** , **[(Git Hub Link)]()**| 재활용 품목 분류를 위한 Object Detection |
 
 ### 🚀 Paper Review
 | Project | Description |
