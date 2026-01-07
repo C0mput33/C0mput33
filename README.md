@@ -73,12 +73,13 @@
 | **[LG Aimers-hackathon(Notion)](https://www.notion.so/LG-Aimers-25-07-249343c769b28046b855edc1d849d9cd?source=copy_link)** | 식음업장 메뉴 수요 예측 AI 온라인 해커톤 |
 | **[Paper Review](https://github.com/C0mput33/Paper_Review)** | Deep Learning Paper Review |
 
+
 ### 🚀 Projects from Naver AI BoostCamp
 | Project | Description |
 | --- | --- |
 | **[Kaggle(Notion Link)](https://www.notion.so/Recod-ai-LUC-Scientific-Image-Forgery-Detection-2b6f11752bf180399d6bd89dc95b0645?source=copy_link)** | Kaggle-Recod.ai/LUC - Scientific Image Forgery Detection |
 | **[Domain Project 1(Notion Link)](https://www.notion.so/1-Object-Detection-2c5f11752bf180f29a11edbdffc5ab3e?source=copy_link)** , **[(Git Hub Link)](https://github.com/boostcampaitech8/pro-cv-objectdetection-cv-08/tree/modeling)**| 재활용 품목 분류를 위한 Object Detection |
-| **[Domain Project 2(Notion Link)]()** , **[(Git Hub Link)](https://github.com/boostcampaitech8/pro-cv-semanticsegmentation-cv-08/tree/dev)**| Hand Bone Image Segmentationn |
+| **[Domain Project 2(Notion Link)]()** , **[(Git Hub Link)](https://github.com/boostcampaitech8/pro-cv-semanticsegmentation-cv-08/tree/dev)**, **[(Git Hub Link_2)](https://github.com/boostcampaitech8/pro-cv-semanticsegmentation-cv-08/tree/dev_mask_ro)**| Hand Bone Image Segmentationn | 
 ### 🚀 Paper Review
 | Project | Description |
 | --- | --- |
