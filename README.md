@@ -15,7 +15,7 @@
 
 
 ### 😄 Interests
-- ML/DL model research & deployment
+- ML/DL model research / Multimodal
 - Reinforcement Learning / Computer Vision
 - Backend
 
