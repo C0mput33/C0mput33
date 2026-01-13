@@ -78,8 +78,8 @@
 | Project | Description |
 | --- | --- |
 | **[Kaggle(Notion Link)](https://www.notion.so/Recod-ai-LUC-Scientific-Image-Forgery-Detection-2b6f11752bf180399d6bd89dc95b0645?source=copy_link)** | Kaggle-Recod.ai/LUC - Scientific Image Forgery Detection |
-| **[Domain Project 1(Notion Link)](https://www.notion.so/1-Object-Detection-2c5f11752bf180f29a11edbdffc5ab3e?source=copy_link)** , **[(Git Hub Link)](https://github.com/boostcampaitech8/pro-cv-objectdetection-cv-08/tree/modeling)**, **[Paper Link](https://github.com/C0mput33/Domain_Project_1-Object_Detection/blob/main/reports/%EB%8F%84%EB%A9%94%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20WRAPUP%20%EB%A6%AC%ED%8F%AC%ED%8A%B8%20(1).pdf)**| 재활용 품목 분류를 위한 Object Detection |
-| **[Domain Project 2(Notion Link)]()** , **[(Git Hub Link)](https://github.com/boostcampaitech8/pro-cv-semanticsegmentation-cv-08/tree/dev)**, **[(Git Hub Link_2)](https://github.com/boostcampaitech8/pro-cv-semanticsegmentation-cv-08/tree/exp/kim)**| Hand Bone Image Segmentationn | 
+| **[Domain Project 1(Notion Link)](https://www.notion.so/1-Object-Detection-2c5f11752bf180f29a11edbdffc5ab3e?source=copy_link)** , **[Git Hub Link](https://github.com/boostcampaitech8/pro-cv-objectdetection-cv-08/tree/modeling)**, **[Paper Link](https://github.com/C0mput33/Domain_Project_1-Object_Detection/blob/main/reports/%EB%8F%84%EB%A9%94%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20WRAPUP%20%EB%A6%AC%ED%8F%AC%ED%8A%B8%20(1).pdf)**| 재활용 품목 분류를 위한 Object Detection |
+| **[Domain Project 2(Notion Link)](https://www.notion.so/2-2e7f11752bf181e3aef9c17d46342925?source=copy_link)** , **[Git Hub Link](https://github.com/boostcampaitech8/pro-cv-semanticsegmentation-cv-08/tree/dev)**, **[Paper Link](https://github.com/boostcampaitech8/pro-cv-semanticsegmentation-cv-08/tree/exp/kim)**| Hand Bone Image Segmentationn | 
 ### 🚀 Paper Review
 | Project | Description |
 | --- | --- |
