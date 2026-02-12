@@ -41,23 +41,7 @@
 
 **Tools**   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
----
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C0mput33&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0mput33&layout=compact&theme=tokyonight" height="165"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=C0mput33&style=flat-square"/>
-</p>
-
-
-<p align="center">
-  <a href="https://solved.ac/tmdnlffh">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdnlffh" alt="Solved.ac Profile"/>
-  </a>
-</p>
 
 
 ---
@@ -86,3 +70,22 @@
 | --- | --- |
 | **[End-to-End Object Detection with Transformers_Paper Review(Notion Link)](https://www.notion.so/2025-11-25-End-to-End-Object-Detection-with-Transformer-2b6f11752bf180c9ba9dd8edf61ca9b6?source=copy_link)** | Facebook Research Team ECCV 2020 |
 | **[LightFakeDetect (MDPI Mathematics)(Notion Link)](https://www.notion.so/LightFakeDetect-MDPI-Mathematics-2eaf11752bf180cea3d8e2e1938bf102?source=copy_link)** | Department of Computer Science, College of Computer and Information Sciences, King Saud University |
+
+
+---
+
+### 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=C0mput33&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0mput33&layout=compact&theme=tokyonight" height="165"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=C0mput33&style=flat-square"/>
+</p>
+
+
+<p align="center">
+  <a href="https://solved.ac/tmdnlffh">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdnlffh" alt="Solved.ac Profile"/>
+  </a>
+</p>
