@@ -30,7 +30,8 @@
 | 2024.07 – 2024.10. | **Google AI/ML Developer Programs** | <a href="https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024/home"><img src="https://img.shields.io/badge/Introduction-Link-blueviolet?style=flat-square"/></a> |
 | 2025.07 – 2025.09. | **LG Aimers** AI Challenge | <a href="https://lgaimers.ai/"><img src="https://img.shields.io/badge/Introduction-Link-critical?style=flat-square"/></a> |
 | 2025.09.06. – 2025.09.07. | **LG Aimers** AI Hackathon Finals | <a href="https://cm.asiae.co.kr/article/2025090711421962528?fbclid=PAQ0xDSwMqKOJleHRuA2FlbQIxMQABp1Hj16olUn679l8hd05RIgIMsVt3GvgLIdRPBNe_cxBwBD1hR3o-W4rk7Mi5_aem_QMKwkoR67hIpureT_M22sQ"><img src="https://img.shields.io/badge/Introduction-Link-blueviolet?style=flat-square"/></a> |
-| 2025.09 – 2026.02. | **NAVER AI BoostCamp** - CV Track | <a href="https://boostcamp.connect.or.kr/program_ai.html"><img src="https://img.shields.io/badge/Introduction-Link-critical?style=flat-square"/></a> |
+| 2025.09 – 2026.02. | **NAVER AI BoostCamp** | <a href="https://boostcamp.connect.or.kr/program_ai.html"><img src="https://img.shields.io/badge/Introduction-Link-critical?style=flat-square"/></a> |
+| 2026.04 – 2026.11. | **SW Maestro** | <a href="https://swmaestro.ai/sw/main/main.do"><img src="https://img.shields.io/badge/Introduction-Link-critical?style=flat-square"/></a> |
 ---
 
 ### 🛠 Tech Stack & Tools
