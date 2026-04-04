@@ -10,7 +10,7 @@
 ### 🎓 Education
 | Duration | School / Major |
 |------|-------------|
-| 2019.03. – 2026.02. | **B.S., School of Software engineering(major with a specialization in AI), Kwangwoon University** |
+| 2019.03. – 2026.02. | **B.S., School of Software engineering(major with a specialization in AI)** |
 
 
 
