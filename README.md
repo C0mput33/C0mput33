@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm C0mput33  👋 <span style="color:#ff9100"></span></h1>
 <p align="center">
   AI Engineer in progress <br>
-  🛡 WHS 2nd Grad · 🥇 LG Aimers Participant · 🚀 NAVER AI BoostCamp
+  🛡 WHS 2nd Grad · 🥇 LG Aimers Participant · 🚀 NAVER AI BoostCamp · 💡 SW Maestro
 </p>
 
 
